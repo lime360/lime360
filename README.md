@@ -1,7 +1,7 @@
 # Hi!
 i've made github back in 2019 but then deleted it in 2023 and now i am back 1 year later
 
-i'm using that for preserving old repositories by forking them
+i mostly use github for preserving old repositories by forking them
 
 [![Lime's GitHub stats](https://github-readme-stats.vercel.app/api?username=lime360)](https://github.com/anuraghazra/github-readme-stats)
 
